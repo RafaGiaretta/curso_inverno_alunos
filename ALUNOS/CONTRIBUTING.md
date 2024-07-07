@@ -20,7 +20,16 @@ Para isso, você deve criar seu Profile README.md, se apresentando, indicando su
 
 Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página: 
 
-<img src="/ALUNOS/image.png"  >
+<img url=("(https://ibb.co/LQQw1jT") alt="Imagem como fazer Fork" >
 
+### 2) Clone localmente
 
-123
+Atraves do GitBash ou VSCODE, digite o comando git clone, seguido da URL do seu fork para clonar o seu repositório localmente, Exemplo:
+
+git clone https://github.com/SEU_USERNAME/curso_inverno_alunos.git
+
+Precione enter, e será criado uma cópia do seu fork localmente.
+
+### 3) Crie uma nova branch
+
+Utilize o comando git checkout -b para criar e alternar para a nova branch e a nomeie como feat/ALUNOS/SEU_USERNAME
