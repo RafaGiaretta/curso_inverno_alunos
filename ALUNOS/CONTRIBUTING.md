@@ -20,7 +20,7 @@ Para isso, você deve criar seu Profile README.md, se apresentando, indicando su
 
 Acesse a página principal do repositório e clique no botão "Fork" no canto superior direito da página: 
 
-<img url="https://ibb.co/LQQw1jT" alt="Imagem como fazer Fork" >
+<img url="https://i.ibb.co/8zz39vy/Captura-de-tela-2024-07-07-171941.png" alt="Imagem como fazer Fork" >
 
 ### 2) Clone localmente
 
