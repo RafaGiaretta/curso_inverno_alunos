@@ -50,7 +50,6 @@ if preco_item > 0:
     quantidade = int(input(f"Quantas unidades de {nome_item} você deseja comprar? "))
     custo_total = preco_item * quantidade
     
-    # Verificando se o guerreiro tem moedas suficientes
     if custo_total <= guerreiro:
         guerreiro -= custo_total
         print(f"Você comprou {quantidade} unidades de {nome_item} por {custo_total} moedas.")
