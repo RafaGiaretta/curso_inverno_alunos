@@ -44,9 +44,9 @@ Para isso, você pode utilizar como exemplo os nossos Profile [RafaGiaretta](htt
 
 
 ### 5) Adicione suas alterações à "STAGING AREA"
-Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração no Git.
+Utilize o comando `git add SEU_USERNAME.md` para adicionar sua alteração no Git.
 
-### 6) Crie um community
+### 6) Crie um commity
 
 Crie um comit e adicione  a mensagem indicando a adição do seu perfil: 
 ```bash
@@ -56,9 +56,9 @@ git commit -m"feat: add SEU_USERNAME profile"
 > Verifique a [`Convenção de Commits`](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md#conven%C3%A7%C3%A3o-de-commits) 
 
 ### 7) Envie as Alterações para o seu Repositório Remoto
-Envie as alterações realizadas localmente para a branch `feat/community/SEU_USERNAME` no seu repositório remoto com o comando: 
+Envie as alterações realizadas localmente para a branch `feat/SEU_USERNAME` no seu repositório remoto com o comando: 
 ```bash
-git push origin feat/community/SEU_USERNAME
+git push origin feat/SEU_USERNAME
 ```
 
 ### 8) Crie um  **Pull Request**
